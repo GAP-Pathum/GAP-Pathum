@@ -32,16 +32,16 @@
 
 <h3 align="left" style="color:#39ff14;">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/pasindu-pathum" target="blank">
+  <a href="https://www.linkedin.com/in/pasindu-pathum-98a299249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu pathum" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/23304284" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23304284" height="30" width="40" />
   </a>
-  <a href="https://fb.com/pasindu-pathum" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100080301072696&mibextid=ZbWKwL" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasindu pathum" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/pasindu-pathum" target="blank">
+  <a href="https://www.instagram.com/g_a_p_pathum?igsh=MXVuNXQ1eXY0NjBkMA==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasindu pathum" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/pathumpasindu41" target="blank">
