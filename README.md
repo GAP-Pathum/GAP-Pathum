@@ -1,5 +1,8 @@
 <h1 align="center" style="color:#39ff14;">Hi 👋, I'm Pasindu Pathum</h1>
-<h3 align="center" style="color:#39ff14;">A Web Developer from Sabaragamuwa University of Sri Lanka</h3>
+  <a align="center" href="https://github.com/GAP-Pathum">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=39FF14&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;I'm+a+Programmer;I'm+a+UI%2FUX+Designer" />
+  </a>
+
 
 <div align="center">
   <img src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif"/>
@@ -118,7 +121,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="xd" width="40" height="40"/> 
   </a> 
 </p>
 
@@ -126,6 +129,37 @@
   Feel free to explore my repositories and projects. I'm always open to feedback and collaboration on exciting web development projects.
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" />
-</div>
+#### I Spent My Time On
+```text
+💬 **Programming Languages:**
+
+| Language       | Time Spent          | Percentage                             |
+|----------------|---------------------|----------------------------------------|
+| **JavaScript** | 1 hr 15 mins        | ██████░░░░░░░░░░░░░░░░░░░   **15%**    |
+| **Java**       | 50 mins             | ████░░░░░░░░░░░░░░░░░░░░░   **10%**    |
+| **SQL**        | 40 mins             | ███░░░░░░░░░░░░░░░░░░░░░░   **8%**     |
+| **MongoDB**    | 50 mins             | ████░░░░░░░░░░░░░░░░░░░░░   **10%**    |
+| **HTML**       | 1 hr 30 mins        | ███████░░░░░░░░░░░░░░░░░░   **18%**    |
+| **CSS**        | 1 hr                | █████░░░░░░░░░░░░░░░░░░░░   **12%**    |
+| **Python**     | 1 hr                | █████░░░░░░░░░░░░░░░░░░░░   **12%**    |
+| **C**          | 1 hr 15 mins        | ██████░░░░░░░░░░░░░░░░░░░   **15%**    |
+
+
+---
+
+🔥 **Editors:**
+
+| Editor         | Time Spent          | Percentage                             |
+|----------------|---------------------|----------------------------------------|
+| **VS Code**    | 4 Hours             | ██████████████░░░░░░░░░░░   **50%**    |
+| **Colab**      | 4 Hours             | ██████████████░░░░░░░░░░░   **50%**    |
+
+---
+
+💻 **Operating System:**
+
+| OS             | Time Spent          | Percentage                          |
+|----------------|---------------------|-------------------------------------|
+| **Windows**    | 14 hrs 2 mins       | █████████████████████████   **100.0%**   |
+
+
