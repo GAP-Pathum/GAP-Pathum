@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/a88425fd2ff197d21c290ae6981b040f.gif" style="width: 40%; height: 50%;" alt="Centered Image">
+  <img src="https://i.pinimg.com/originals/9d/2e/e5/9d2ee5182867613212156f74aae2d5f1.gif" style="width: 60%;">
 </p>
 
 
