@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#39ff14;">Hi 👋, I'm Pasindu Pathum 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/a88425fd2ff197d21c290ae6981b040f.gif" style="width: 100%; height: 40vh; object-fit: cover; object-position: center;" alt="Cropped Image">
+  <img src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/a88425fd2ff197d21c290ae6981b040f.gif" object-fit: cover; object-position: center;" alt="Cropped Image">
 </p>
 </h1>
 
