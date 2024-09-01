@@ -1,9 +1,9 @@
-  <div style="width: 100%; height: 80vh; overflow: hidden; display: flex; justify-content: center; align: center;">
-  <img src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/a88425fd2ff197d21c290ae6981b040f.gif" style="width: 50%; height: 50%; object-fit: cover; object-position: center top;" alt="Cropped Image">
-</div>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/a88425fd2ff197d21c290ae6981b040f.gif" style="width: 40%; height: 50%;" alt="Centered Image">
+</p>
 
-<h1 align="center" style="color:#39ff14;">Hi 👋, I'm Pasindu Pathum 
-</h1>
+
+ <h1 style="color:#39ff14;">Hi 👋, I'm Pasindu Pathum</h1>
 
   <a align="center" href="https://github.com/GAP-Pathum">
     <p align="center">
