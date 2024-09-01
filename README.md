@@ -1,9 +1,15 @@
-<img align="center" width="80%" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
+<p align="center">
+  <img src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv" width="75%" alt="Centered Image">
+</p>
+
+
 
 <h1 align="center" style="color:#39ff14;">Hi 👋, I'm Pasindu Pathum</h1>
 
   <a align="center" href="https://github.com/GAP-Pathum">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=39FF14&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;I'm+a+Programmer;I'm+a+UI%2FUX+Designer" />
+    <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=39FF14&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;I'm+a+Programmer;I'm+a+UI%2FUX+Designer" alt="Centered Image" />
+    </p>
   </a>
 
 <p align="center"> 
