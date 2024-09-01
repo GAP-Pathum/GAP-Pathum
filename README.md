@@ -1,3 +1,5 @@
+<img align="center" width="80%" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
+
 <h1 align="center" style="color:#39ff14;">Hi 👋, I'm Pasindu Pathum</h1>
 
   <a align="center" href="https://github.com/GAP-Pathum">
