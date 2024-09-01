@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/ae942842858579.57dbe6fef3333.gif" width="75%" alt="Centered Image">
+  <img src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/a88425fd2ff197d21c290ae6981b040f.gif" width="75%" >
 </p>
 
 
