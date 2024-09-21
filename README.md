@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gap-pathum&show_icons=true&theme=dark&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="gap-pathum" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gap-pathum&theme=dark&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="gap-pathum" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gap-pathum&show_icons=true&locale=en&layout=compact&theme=dark&title_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="gap-pathum" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gap-pathum&show_icons=true&locale=en&layout=compact&theme=dark&title_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="gap-pathum"/>
 </p>
 
 ---
