@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" style="width: 100%;">
+  <img src="https://github.com/GAP-Pathum/GAP-Pathum/blob/main/banner1.png" style="width: 100%;">
 </p>
 
 
