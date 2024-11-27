@@ -2,20 +2,20 @@
   <img src="https://github.com/GAP-Pathum/GAP-Pathum/blob/main/banner1.png" style="width: 100%;">
 </p>
 
+<h1 style="color:#000000;">Hi 👋, I'm Pasindu Pathum</h1>
 
- <h1 style="color:#39ff14;">Hi 👋, I'm Pasindu Pathum</h1>
+<a align="center" href="https://github.com/GAP-Pathum">
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=000000&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;I'm+a+Programmer;I'm+a+UI%2FUX+Designer" alt="Centered Image" />
+  </p>
+</a>
 
-  <a align="center" href="https://github.com/GAP-Pathum">
-    <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=39FF14&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;I'm+a+Programmer;I'm+a+UI%2FUX+Designer" alt="Centered Image" />
-    </p>
-  </a>
 <p align="center"> 
   I’m passionate about web development and love working on innovative projects. Currently, I'm focused on building my skills with the MERN stack. I enjoy solving problems, learning new technologies, and continuously improving my coding abilities.
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gap-pathum&theme=darkhub&no-frame=true&row=1&column=6&title_color=39ff14&margin-w=15" alt="gap-pathum" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gap-pathum&theme=flat&no-frame=true&row=1&column=6&title_color=000000&margin-w=15" alt="gap-pathum" />
 </div>
 
 ---
@@ -29,14 +29,14 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gap-pathum&show_icons=true&theme=dark&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="gap-pathum" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gap-pathum&theme=dark&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="gap-pathum" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gap-pathum&show_icons=true&locale=en&layout=compact&theme=dark&title_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="gap-pathum"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gap-pathum&show_icons=true&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" alt="gap-pathum" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gap-pathum&theme=light&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000" alt="gap-pathum" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gap-pathum&show_icons=true&locale=en&layout=compact&theme=light&title_color=000000&text_color=000000&bg_color=ffffff" alt="gap-pathum"/>
 </p>
 
 ---
 
-<h3 align="left" style="color:#39ff14;">🔗 Connect with me:</h3>
+<h3 align="left" style="color:#000000;">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pasindu-pathum-98a299249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu pathum" height="30" width="40" />
@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="left" style="color:#39ff14;">🛠️ Languages and Tools:</h3>
+<h3 align="left" style="color:#000000;">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
@@ -160,5 +160,3 @@
 | OS             | Time Spent          | Percentage                          |
 |----------------|---------------------|-------------------------------------|
 | Windows    | 14 hrs 2 mins       | █████████████████████████       100.0%  |
-
-
