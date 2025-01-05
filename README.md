@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pasindu Pathum</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00ADB5&size=30&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Tech+Enthusiast;Passionate+Coder" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00FF00&size=30&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Tech+Enthusiast;Passionate+Coder" alt="Typing Animation" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/GAP-Pathum/GAP-Pathum/blob/main/banner1.png" style="width: 100%; border-radius: 10px;">
@@ -30,10 +31,11 @@
 - 🎯 **Aspiration**: Creating Impact Through Code  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gap-pathum&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gap-pathum&theme=radical" alt="GitHub Streak" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gap-pathum&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gap-pathum&show_icons=true&hide_title=true&theme=light" alt="GitHub Stats" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gap-pathum&theme=light" alt="GitHub Streak" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gap-pathum&layout=compact&theme=light" alt="Top Languages" style="margin: 10px;" />
 </p>
+
 
 ---
 
