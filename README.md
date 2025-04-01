@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966" style="width: 100%; border-radius: 10px;">
+</p>
 <h1 align="center">Hi 👋, I'm Pasindu Pathum</h1>
 
 <p align="center">
@@ -6,27 +9,21 @@
 
 
 <p align="center">
-  <img src="https://github.com/GAP-Pathum/GAP-Pathum/blob/main/banner1.png" style="width: 100%; border-radius: 10px;">
-</p>
-
-<p align="center">
   Passionate developer exploring the boundaries of technology, currently diving deep into the MERN stack and building meaningful projects.
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GAP-Pathum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
 
 <p align="center">
   <a href="https://gappathum-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio">
+    _<img src="https://komarev.com/ghpvc/?username=GAP-Pathum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio">_
   </a>
 </p>
 
 ---
 
-- 🌱 **Learning**: MERN Stack & React Native  
+- 🌱 **Learning**: Ajax
 - 🛠️ **Building**: Innovative Web and Mobile Apps  
 - 🎯 **Aspiration**: Creating Impact Through Code  
 
