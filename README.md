@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  Passionate developer exploring the boundaries of technology, currently diving deep into the MERN stack and building meaningful projects.
+  Passionate developer exploring the boundaries of technology, currently diving deep into coding and building meaningful projects.
 </p>
 
 
@@ -29,8 +29,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gap-pathum&show_icons=true&hide_title=true&theme=light" alt="GitHub Stats" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gap-pathum&theme=light" alt="GitHub Streak" style="margin: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gap-pathum&layout=compact&theme=light" alt="Top Languages" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gap-pathum&theme=light" alt="GitHub Streak" style="margin: 10px;" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" style="margin: 10px; width: 260px; ">
 </p>
 
 
