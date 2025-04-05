@@ -1,64 +1,88 @@
+<!-- Professional README with Glassmorphism & Branding | by GAP-Pathum -->
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966" style="width: 100%; border-radius: 10px;">
 </p>
-<h1 align="center">Hi 👋, I'm Pasindu Pathum</h1>
+
+<h1 align="center" style="font-weight: bold;">Hi 👋, I'm <span style="color:#00ffff;">Pasindu Pathum</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00FF00&size=30&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Tech+Enthusiast;Passionate+Coder" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Creative+Thinker+%7C+Tech+Explorer;Passionate+Problem+Solver;Coding+My+Way+to+Innovation" alt="Typing SVG" />
 </p>
 
+---
 
 <p align="center">
-  Passionate developer exploring the boundaries of technology, currently diving deep into coding and building meaningful projects.
+  🚀 I’m a developer obsessed with creating beautiful, scalable and functional digital experiences.<br>
+  🔥 Crafting ideas into products with **React**, **Node.js**, **Firebase**, **Java**, **PHP**, and more.
 </p>
 
+---
 
+### 🧠 My Skill Set
 
 <p align="center">
-  <a href="https://gappathum-portfolio.netlify.app/">
-    _<img src="https://komarev.com/ghpvc/?username=GAP-Pathum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio">_
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,java,javascript,html,css,tailwind,bootstrap,redux,firebase,mysql,vite,figma,github,git,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GAP-Pathum&show_icons=true&theme=transparent&hide_border=true&border_radius=15&custom_title=My+GitHub+Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAP-Pathum&layout=compact&theme=transparent&hide_border=true&border_radius=15" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAP-Pathum&theme=transparent&hide_border=true&border_radius=15&fire=00FFFF" />
+</p>
+
+---
+
+### 🌍 Online Presence
+
+<p align="center">
+  <a href="https://gappathum-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Site-00cfff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</p>
-
----
-
-- 🌱 **Learning**: Ajax
-- 🛠️ **Building**: Innovative Web and Mobile Apps  
-- 🎯 **Aspiration**: Creating Impact Through Code  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gap-pathum&show_icons=true&hide_title=true&theme=light" alt="GitHub Stats" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gap-pathum&layout=compact&theme=light" alt="Top Languages" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gap-pathum&theme=light" alt="GitHub Streak" style="margin: 10px;" />
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" style="margin: 10px; width: 260px; ">
-</p>
-
-
----
-
-<h3 align="center">🔗 Connect with me:</h3>
-<p align="center">
   <a href="https://github.com/GAP-Pathum" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-GAP--Pathum-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pasindu-pathum-98a299249" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/pasindu-pathum-98a299249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://stackoverflow.com/users/23304284" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/StackOverflow-Profile-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="https://web.facebook.com/profile.php?id=100080301072696" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/g_a_p_pathum" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.behance.net/pasindupathum" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance" />
+    <img src="https://img.shields.io/badge/Behance-Designs-0057FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </p>
 
+---
+
+### 🎯 Currently Focusing On:
+- ✅ Building smart, scalable full-stack solutions.
+- ✅ Creating clean UI with **Tailwind**, **Framer Motion**, and **Figma**.
+- ✅ Learning **AJAX**, **API integrations**, and **advanced DB structuring**.
+
+---
+
+### ✨ Fun Developer Fact
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
+
+---
+
 <p align="center">
-  🚀 Always curious, always coding.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
 </p>
