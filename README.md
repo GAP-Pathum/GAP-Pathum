@@ -77,6 +77,7 @@
 - ✅ Learning **AJAX**, **API integrations**, and **advanced DB structuring**.
 
 ---
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
 
 ### ✨ Fun Developer Fact
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
