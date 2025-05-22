@@ -1,4 +1,4 @@
-<!-- Professional README with Glassmorphism & Branding | by GAP-Pathum -->
+<!-- Professional README with Glassmorphism & Branding | Updated Tech Stack Version -->
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966" style="width: 100%; border-radius: 10px;">
@@ -7,14 +7,14 @@
 <h1 align="center" style="font-weight: bold;">Hi 👋, I'm <span style="color:#00ffff;">Pasindu Pathum</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Creative+Thinker+%7C+Tech+Explorer;Passionate+Problem+Solver;Coding+My+Way+to+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Creative+Thinker+%7C+Tech+Explorer;Passionate+Problem+Solver;Coding+My+Way+to+Innovation" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  🚀 I’m a developer obsessed with creating beautiful, scalable and functional digital experiences.<br>
-  🔥 Crafting ideas into products with **React**, **Node.js**, **Firebase**, **Java**, **PHP**, and more.
+  🚀 I’m a developer obsessed with creating beautiful, scalable, and functional digital experiences.<br>
+  🔥 Crafting ideas into products using **Node.js**, **PHP**, **MySQL**, **JavaScript**, **Java**, and more.
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ### 🧠 My Skill Set
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,java,javascript,html,css,tailwind,bootstrap,redux,firebase,mysql,vite,figma,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,java,javascript,html,css,tailwind,bootstrap,firebase,mysql,express,figma,github,git,vscode" />
 </p>
 
 ---
@@ -72,9 +72,9 @@
 ---
 
 ### 🎯 Currently Focusing On:
-- ✅ Building smart, scalable full-stack solutions.
-- ✅ Creating clean UI with **Tailwind**, **Framer Motion**, and **Figma**.
-- ✅ Learning **AJAX**, **API integrations**, and **advanced DB structuring**.
+- ✅ Building robust backend systems using **Node.js**, **PHP**, and **MySQL**.
+- ✅ Designing clean UI/UX with **Tailwind CSS**, **Bootstrap**, and **Figma**.
+- ✅ Improving frontend interaction with **AJAX**, **REST APIs**, and **dynamic scripting** using **JavaScript**.
 
 ---
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
