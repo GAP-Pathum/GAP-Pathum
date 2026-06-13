@@ -11,16 +11,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Graph
+
+    permissions:
+      contents: write        # ← fixes exit code 128 (push permission)
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4            # ← Node 24 compatible
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: GAP-Pathum
+          MAX_REPOS: 10
+
       - name: Commit & Push
         run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add -A .
-          git commit -m "Generate 3D contribution graph" || exit 0
+          git diff --staged --quiet || git commit -m "chore: update 3D contribution graph"
           git push
