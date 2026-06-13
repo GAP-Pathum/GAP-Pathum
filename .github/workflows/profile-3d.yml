@@ -13,10 +13,10 @@ jobs:
     name: Generate 3D Contribution Graph
 
     permissions:
-      contents: write        # ← fixes exit code 128 (push permission)
+      contents: write
 
     steps:
-      - uses: actions/checkout@v4            # ← Node 24 compatible
+      - uses: actions/checkout@v4
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
