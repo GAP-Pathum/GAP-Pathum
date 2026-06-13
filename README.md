@@ -227,7 +227,7 @@ export default Developer satisfies config ✓
 
 <div align="center">
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](./profile-3d-contrib/profile-gitblock.svg)
 
 </div>
 
