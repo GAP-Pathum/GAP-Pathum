@@ -206,7 +206,18 @@ export default Developer satisfies config ✓
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GAP-Pathum&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=GAP-Pathum&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+
+</div>
+
+---
+
+## `$ metrics --languages --habits --stars`
+
+<div align="center">
+
+<img src="./metrics.overview.svg" alt="Metrics Overview" width="49%"/>
+<img src="./metrics.languages.svg" alt="Language Metrics" width="49%"/>
 
 </div>
 
@@ -219,16 +230,6 @@ export default Developer satisfies config ✓
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
-
----
-
-## `$ watch -n 1 git log --oneline`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GAP-Pathum/GAP-Pathum/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GAP-Pathum/GAP-Pathum/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/GAP-Pathum/GAP-Pathum/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
 
 ---
 
